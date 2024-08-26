@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+myproject/
+__pycache__/
+migrations/
+db.sqlite3
